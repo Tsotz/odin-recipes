@@ -1,12 +1,25 @@
 * {
     background-color:rgb(100, 71, 71);
+    box-sizing: border-box;
 
 }
 h1 {
     font-size:50px;
     background-color;
     color: green;
+    text-align:center;
+
 }
+
+.list {
+
+    margin:10px;
+    padding:10px;
+    
+
+
+}
+
 
 .link {
     font-size: 20px;
